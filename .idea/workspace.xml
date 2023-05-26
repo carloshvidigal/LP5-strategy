@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fec5b86d-65b2-44a4-86d0-32c5c65475dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/CalculateShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/FreightByDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/FreightByDistanceAndVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/FreightByDistanceAndWeightAndVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Pack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strategy/PackTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="fec5b86d-65b2-44a4-86d0-32c5c65475dc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
